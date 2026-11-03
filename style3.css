@@ -1,0 +1,167 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+
+ /* #box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+#box2{
+    height: 50px;
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10px;
+    font-size: 2em;
+    width: 5em;
+}
+ div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#Box1{ 
+    position: relative;
+    left: 50px;
+    top: 50px;
+    z-index: 1 ; 
+     background-image: url("cat_photo.jpg");
+    background-size: cover;
+}
+#Box2{
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+#Box3{
+    position: sticky;
+    top: 0px;
+    left: 200px;
+    z-index: -5;
+
+ }
+#Box4{
+    position: fixed;
+    right: 10px;
+    bottom: 0px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+ div{
+    height: 100px;
+    width: 100px;
+    background-image: url(cat_photo.jpg);
+    background-size: cover;
+    position: fixed;
+    right: 0px;asa
+} 
+ body{
+    text-align: center;
+ }
+
+ div{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+ }
+#container{
+       width: 800px;
+       height: 200px;
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+       flex-wrap: wrap;
+       
+      
+}
+ #box1{
+       background-color: aqua;
+ }
+ #box2{
+       background-color: pink;
+ }
+ #box3{
+       background-color: darkkhaki;
+ }
+ #box4{
+       background-color: indianred;
+ }
+ #box5{
+       background-color: slateblue;
+ } 
+   .navbar{
+    background-color: pink;
+     display: flex;
+     justify-content: space-evenly;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+  }
+ 
+  li{
+    list-style-type: none;
+    display: inline-block;
+  }
+  #div1{
+       height: 200px;
+       width: 300px;
+       background-color: blueviolet;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+  }
+  #div2{
+  
+    background-color: green;
+    height: 50px;
+    width: 60px; 
+   
+  } */
+   div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 2s; */
+      /* transform: rotate(45deg); */
+    color: black ;
+    /* transition: all 2s ease-in;
+    rotate: x 360deg; */
+    margin: 100px;
+    animation-name: colorAnimate;
+    animation-duration: 0.125s;
+    /* animation-timing-function: ease-in; */
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+   }
+   /* div:hover{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    color: whitesmoke;
+    font-size: 20px;
+    transform: scale(1,1);
+    rotate: calc(90deg);
+    transform: translate(100px,-200px)
+    transform: skew(30deg);
+   }  
+   div:active{
+    background-color: pink;
+   } */
+  
+   @keyframes colorAnimate {
+    from { background-color: aquamarine;}
+    to  {background-color: red;}
+   }
+

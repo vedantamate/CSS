@@ -1,0 +1,156 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+} */
+
+/* div{
+    height: 100px;
+    background-color: pink;
+    width: 100px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 50px;
+    
+} */
+/* h1{
+    height: 50px;
+    width: 170px;
+    background-color: aqua;
+     border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    border-radius: 50%;
+} */
+ /* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+ } */
+ /* #amazon{
+    height: 60px;
+    width: 100%;
+    background-color: #0f1111;
+    border-width: 5px;
+    border-color: white;
+    font-size: 25px;
+  
+ }
+   
+   #div1 {
+    color: orange;
+    margin-right: 170px;
+    text-decoration: none;
+    
+   }
+   #div2 {
+    color: white;
+    text-decoration: none;
+      margin-right: 170px;
+      text-decoration: none;
+   }
+   #div3{
+     color: white;
+      margin-right: 170px;
+      text-decoration: none;
+   }
+   #div4{
+     color: white;
+      margin-right: 170px;
+      text-decoration: none;
+   }
+   #div5{
+     color: white;
+      margin-right: 170px;
+      text-decoration: none;
+   }
+   button{
+    background-color: #f08804;
+    border-color: white;
+    color: white;
+     margin-right: 190px;
+   } */
+    /* div{
+      background-color: pink;
+      display: inline;
+    }
+    button{
+      display: block;
+
+    } */
+     /* div{
+      height: 100px;
+      width: 100px;
+      margin: 25px;
+      padding: 25px;
+      display: inline-block;
+     } */
+     /* #Box2{
+      display: none;
+      visibility: hidden;
+     } */
+      .contentbox{
+           height: 100px;
+           width: 100px;
+           border: 2px solid black;
+           display: inline-block;
+      }
+       #amazon{
+    height: 60px;
+    width: 100%;
+    background-color: #0f1111;
+    border-width: 5px;
+    border-color: white;
+    font-size: 25px;
+  
+ }
+   
+   #div1 {
+    color: orange;
+    margin-right: 160px;
+    text-decoration: none;
+    
+   }
+   #div2 {
+    color: white;
+    text-decoration: none;
+      margin-right: 160px;
+      text-decoration: none;
+   }
+   #div3{
+     color: white;
+      margin-right: 160px;
+      text-decoration: none;
+   }
+   #div4{
+     color: white;
+      margin-right: 160px;
+      text-decoration: none;
+   }
+   #div5{
+     color: white;
+      margin-right: 160px;
+      text-decoration: none;
+   }
+   button{
+    background-color: #f08804;
+    border-color: white;
+    color: white;
+     margin-right: 190px;
+   }
+   
+  footer{
+   background-color: black;
+   color: white;
+   text-align: center;
+  }
+  #content{
+   height: 640px;
+   
+  }
